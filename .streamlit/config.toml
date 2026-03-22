@@ -1,1 +1,14 @@
 
+[theme]
+base = "light"
+primaryColor = "#1565C0"
+backgroundColor = "#F0F4F8"
+secondaryBackgroundColor = "#E3F2FD"
+textColor = "#0D1B2A"
+
+[server]
+maxUploadSize = 50
+enableWebsocketCompression = true
+
+[browser]
+gatherUsageStats = false
